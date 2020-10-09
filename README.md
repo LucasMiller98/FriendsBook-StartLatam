@@ -1,2 +1,2 @@
-# FriendsBook-StartLatam
+# projeto-final-friendsbook
 Created with CodeSandbox
